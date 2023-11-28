@@ -1,0 +1,17 @@
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\bin\Debug\net6.0\Transversal.Mapper.deps.json
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\bin\Debug\net6.0\Transversal.Mapper.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\bin\Debug\net6.0\Transversal.Mapper.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\bin\Debug\net6.0\Data.Agencia.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\bin\Debug\net6.0\Data.AgenciaDTO.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\bin\Debug\net6.0\Data.AgenciaDTO.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\bin\Debug\net6.0\Data.Agencia.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\obj\Debug\net6.0\Transversal.Mapper.csproj.AssemblyReference.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\obj\Debug\net6.0\Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\obj\Debug\net6.0\Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\obj\Debug\net6.0\Transversal.Mapper.AssemblyInfo.cs
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\obj\Debug\net6.0\Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\obj\Debug\net6.0\Transversal.Mapper.csproj.CopyComplete
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\obj\Debug\net6.0\Transversal.Mapper.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\obj\Debug\net6.0\refint\Transversal.Mapper.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\obj\Debug\net6.0\Transversal.Mapper.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Mapper\obj\Debug\net6.0\ref\Transversal.Mapper.dll

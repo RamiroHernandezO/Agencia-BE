@@ -1,0 +1,14 @@
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.Agencia\bin\Debug\net6.0\Data.Agencia.deps.json
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.Agencia\bin\Debug\net6.0\Data.Agencia.runtimeconfig.json
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.Agencia\bin\Debug\net6.0\Data.Agencia.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.Agencia\bin\Debug\net6.0\Data.Agencia.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.Agencia\obj\Debug\net6.0\Data.Agencia.csproj.AssemblyReference.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.Agencia\obj\Debug\net6.0\Data.Agencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.Agencia\obj\Debug\net6.0\Data.Agencia.AssemblyInfoInputs.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.Agencia\obj\Debug\net6.0\Data.Agencia.AssemblyInfo.cs
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.Agencia\obj\Debug\net6.0\Data.Agencia.csproj.CoreCompileInputs.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.Agencia\obj\Debug\net6.0\Data.Agencia.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.Agencia\obj\Debug\net6.0\refint\Data.Agencia.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.Agencia\obj\Debug\net6.0\Data.Agencia.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.Agencia\obj\Debug\net6.0\Data.Agencia.genruntimeconfig.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.Agencia\obj\Debug\net6.0\ref\Data.Agencia.dll

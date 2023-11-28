@@ -1,0 +1,15 @@
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\bin\Debug\net6.0\Transversal.Logging.deps.json
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\bin\Debug\net6.0\Transversal.Logging.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\bin\Debug\net6.0\Transversal.Logging.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\bin\Debug\net6.0\Transversal.Common.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\bin\Debug\net6.0\Transversal.Common.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\obj\Debug\net6.0\Transversal.Logging.csproj.AssemblyReference.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\obj\Debug\net6.0\Transversal.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\obj\Debug\net6.0\Transversal.Logging.AssemblyInfoInputs.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\obj\Debug\net6.0\Transversal.Logging.AssemblyInfo.cs
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\obj\Debug\net6.0\Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\obj\Debug\net6.0\Transversal.Logging.csproj.CopyComplete
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\obj\Debug\net6.0\Transversal.Logging.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\obj\Debug\net6.0\refint\Transversal.Logging.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\obj\Debug\net6.0\Transversal.Logging.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Transversal.Logging\obj\Debug\net6.0\ref\Transversal.Logging.dll

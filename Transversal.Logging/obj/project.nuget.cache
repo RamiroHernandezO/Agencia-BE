@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C9Wo3TJCj9BFmXjLJF9XUWp+2u4x/m/55aniBXZAXffD1w+DQApptHwaX/w5rPa3qeZlyp/IufdcHdZv8nHNvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramir\\OneDrive\\Desktop\\VIDA ESCOLAR\\Universidad\\7mo Semestre\\Diseño y arquitectura de software\\AgenciaBE\\Transversal.Logging\\Transversal.Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramir\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

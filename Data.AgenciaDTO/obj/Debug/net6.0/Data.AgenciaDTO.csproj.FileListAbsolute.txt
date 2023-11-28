@@ -1,0 +1,15 @@
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\bin\Debug\net6.0\Data.AgenciaDTO.deps.json
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\bin\Debug\net6.0\Data.AgenciaDTO.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\bin\Debug\net6.0\Data.AgenciaDTO.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\bin\Debug\net6.0\Data.Agencia.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\bin\Debug\net6.0\Data.Agencia.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\obj\Debug\net6.0\Data.AgenciaDTO.csproj.AssemblyReference.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\obj\Debug\net6.0\Data.AgenciaDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\obj\Debug\net6.0\Data.AgenciaDTO.AssemblyInfoInputs.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\obj\Debug\net6.0\Data.AgenciaDTO.AssemblyInfo.cs
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\obj\Debug\net6.0\Data.AgenciaDTO.csproj.CoreCompileInputs.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\obj\Debug\net6.0\Data.AgenciaDTO.csproj.CopyComplete
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\obj\Debug\net6.0\Data.AgenciaDTO.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\obj\Debug\net6.0\refint\Data.AgenciaDTO.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\obj\Debug\net6.0\Data.AgenciaDTO.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Data.AgenciaDTO\obj\Debug\net6.0\ref\Data.AgenciaDTO.dll

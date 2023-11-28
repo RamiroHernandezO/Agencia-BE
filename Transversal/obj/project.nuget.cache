@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B+6Kj+JMwXGDmfy4WwLtHAEqdgYu2rFm6LrIuAZwnGw/QRQyYmsafFU4ac8vC3+lqdp5tzDdI+i6EAS30hf+fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repositorio\\21293-Plataforma_ARO_BACK\\Transversal\\Transversal.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramiher\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Ramiher\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ramiher\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

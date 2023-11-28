@@ -1,0 +1,17 @@
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\bin\Debug\net6.0\Pattern.UnitOfWork.deps.json
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\bin\Debug\net6.0\Pattern.UnitOfWork.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\bin\Debug\net6.0\Pattern.UnitOfWork.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\bin\Debug\net6.0\Data.Agencia.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\bin\Debug\net6.0\Pattern.Repository.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\bin\Debug\net6.0\Pattern.Repository.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\bin\Debug\net6.0\Data.Agencia.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\obj\Debug\net6.0\Pattern.UnitOfWork.csproj.AssemblyReference.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\obj\Debug\net6.0\Pattern.UnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\obj\Debug\net6.0\Pattern.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\obj\Debug\net6.0\Pattern.UnitOfWork.AssemblyInfo.cs
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\obj\Debug\net6.0\Pattern.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\obj\Debug\net6.0\Pattern.UnitOfWork.csproj.CopyComplete
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\obj\Debug\net6.0\Pattern.UnitOfWork.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\obj\Debug\net6.0\refint\Pattern.UnitOfWork.dll
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\obj\Debug\net6.0\Pattern.UnitOfWork.pdb
+C:\Users\ramir\OneDrive\Desktop\VIDA ESCOLAR\Universidad\7mo Semestre\Diseño y arquitectura de software\AgenciaBE\Pattern.UnitOfWork\obj\Debug\net6.0\ref\Pattern.UnitOfWork.dll
